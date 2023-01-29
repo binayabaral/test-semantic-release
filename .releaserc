@@ -7,9 +7,7 @@
     }
   ],
   "plugins": [
-    [
-      "semantic-release-conventional-commits"
-    ],
+    "semantic-release-conventional-commits",
     [
       "@semantic-release/release-notes-generator",
       {
