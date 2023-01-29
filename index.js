@@ -9,3 +9,4 @@ console.log('testing perf');
 console.log('testing test');
 console.log('testing ci');
 console.log('testing build');
+console.log('testing chore');
