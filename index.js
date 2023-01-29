@@ -6,3 +6,4 @@ console.log('testing docs');
 console.log('testing style');
 console.log('testing refactor');
 console.log('testing perf');
+console.log('testing test');
