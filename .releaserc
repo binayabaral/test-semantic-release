@@ -6,8 +6,8 @@
       "prerelease": true
     }
   ],
+  "analyzeCommits": "semantic-release-conventional-commits",
   "plugins": [
-    "semantic-release-conventional-commits",
     [
       "@semantic-release/release-notes-generator",
       {
