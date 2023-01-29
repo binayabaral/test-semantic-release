@@ -1,3 +1,5 @@
+## [1.0.0-staging.3](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.2...v1.0.0-staging.3) (2023-01-29)
+
 ## [1.0.0-staging.2](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.1...v1.0.0-staging.2) (2023-01-29)
 
 ## 1.0.0-staging.1 (2023-01-29)
