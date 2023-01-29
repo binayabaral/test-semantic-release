@@ -1,3 +1,10 @@
+## [1.0.0-staging.7](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.6...v1.0.0-staging.7) (2023-01-29)
+
+
+### :memo: Documentation Changes
+
+* add docs commit ([b4a186a](https://github.com/binayabaral/test-semantic-release/commit/b4a186a68302cd053da8fa99b9a0681ad4a7ca89))
+
 ## [1.0.0-staging.6](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.5...v1.0.0-staging.6) (2023-01-29)
 
 
