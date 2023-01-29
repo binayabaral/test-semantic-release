@@ -1,3 +1,10 @@
+## [1.0.0-staging.6](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.5...v1.0.0-staging.6) (2023-01-29)
+
+
+### :bug: Fixes
+
+* adding fix commit ([8c3c71e](https://github.com/binayabaral/test-semantic-release/commit/8c3c71e3f94823115c1bde917ba8ac8df1a39759))
+
 ## [1.0.0-staging.5](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.4...v1.0.0-staging.5) (2023-01-29)
 
 
