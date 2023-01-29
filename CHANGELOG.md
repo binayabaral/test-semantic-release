@@ -1,3 +1,10 @@
+## [1.0.0-staging.11](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.10...v1.0.0-staging.11) (2023-01-29)
+
+
+### :white_check_mark: Tests
+
+* add test commit ([56e91de](https://github.com/binayabaral/test-semantic-release/commit/56e91de8ee83ceb874217dd29d8614c3a5713822))
+
 ## [1.0.0-staging.10](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.9...v1.0.0-staging.10) (2023-01-29)
 
 
