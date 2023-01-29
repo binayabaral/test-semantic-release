@@ -1,3 +1,10 @@
+## [1.0.0-staging.5](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.4...v1.0.0-staging.5) (2023-01-29)
+
+
+### :sparkles: Features
+
+* adding feat commit ([782cf03](https://github.com/binayabaral/test-semantic-release/commit/782cf030f62c805cf05f502f484cf16574d167ee))
+
 ## [1.0.0-staging.4](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.3...v1.0.0-staging.4) (2023-01-29)
 
 
