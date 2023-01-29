@@ -8,10 +8,7 @@
   ],
   "plugins": [
     [
-      "@semantic-release/commit-analyzer",
-      {
-        "config": "conventional-changelog-conventionalcommits"
-      }
+      "semantic-release-conventional-commits"
     ],
     [
       "@semantic-release/release-notes-generator",
