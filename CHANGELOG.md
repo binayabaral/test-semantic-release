@@ -1,3 +1,10 @@
+## [1.0.0-staging.12](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.11...v1.0.0-staging.12) (2023-01-29)
+
+
+### :repeat: CI
+
+* add ci commit ([71f7f27](https://github.com/binayabaral/test-semantic-release/commit/71f7f2728d8266793d550b487f1494bf78074776))
+
 ## [1.0.0-staging.11](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.10...v1.0.0-staging.11) (2023-01-29)
 
 
