@@ -1,3 +1,10 @@
+## [1.0.0-staging.9](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.8...v1.0.0-staging.9) (2023-01-29)
+
+
+### :zap: Refactors
+
+* add refactor commit ([3d8948d](https://github.com/binayabaral/test-semantic-release/commit/3d8948d8a3be2f4d0ceb63a72ec83296cee54f15))
+
 ## [1.0.0-staging.8](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.7...v1.0.0-staging.8) (2023-01-29)
 
 
