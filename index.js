@@ -12,3 +12,4 @@ console.log('testing build');
 console.log('testing chore');
 
 console.log('this is a fix');
+console.log('this is a feature');
