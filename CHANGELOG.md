@@ -1,3 +1,10 @@
+## [1.0.0-staging.13](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.12...v1.0.0-staging.13) (2023-01-29)
+
+
+### :building_construction: Builds
+
+* add build commit ([0583821](https://github.com/binayabaral/test-semantic-release/commit/058382103a4bc0440db329daafba0f45cb0780d6))
+
 ## [1.0.0-staging.12](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.11...v1.0.0-staging.12) (2023-01-29)
 
 
