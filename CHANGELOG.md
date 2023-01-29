@@ -1,3 +1,10 @@
+## [2.0.0-staging.2](https://github.com/binayabaral/test-semantic-release/compare/v2.0.0-staging.1...v2.0.0-staging.2) (2023-01-29)
+
+
+### :rocket: Chores
+
+* add and configure commitlint ([1d57759](https://github.com/binayabaral/test-semantic-release/commit/1d57759e921172eaf6828937442bd95476921270))
+
 ## [2.0.0-staging.1](https://github.com/binayabaral/test-semantic-release/compare/v1.1.0-staging.1...v2.0.0-staging.1) (2023-01-29)
 
 
