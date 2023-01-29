@@ -8,3 +8,4 @@ console.log('testing refactor');
 console.log('testing perf');
 console.log('testing test');
 console.log('testing ci');
+console.log('testing build');
