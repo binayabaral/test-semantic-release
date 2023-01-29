@@ -1,3 +1,10 @@
+## [1.0.0-staging.8](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.7...v1.0.0-staging.8) (2023-01-29)
+
+
+### :barber: Styles changes
+
+* add style commit ([4a18f33](https://github.com/binayabaral/test-semantic-release/commit/4a18f33a09a24ccdbe7312d618698b117e4e7f8b))
+
 ## [1.0.0-staging.7](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.6...v1.0.0-staging.7) (2023-01-29)
 
 
