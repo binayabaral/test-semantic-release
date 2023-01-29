@@ -1,3 +1,11 @@
+## [1.0.0-staging.4](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.3...v1.0.0-staging.4) (2023-01-29)
+
+
+### :rocket: Chores
+
+* update release config ([5ddf3ff](https://github.com/binayabaral/test-semantic-release/commit/5ddf3ffbaa0d390fa01cf45bb19387f7d8f6ddd5))
+* update release config ([185006a](https://github.com/binayabaral/test-semantic-release/commit/185006acea53d9655d0967697d261e06e407ceeb))
+
 ## [1.0.0-staging.3](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.2...v1.0.0-staging.3) (2023-01-29)
 
 ## [1.0.0-staging.2](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.1...v1.0.0-staging.2) (2023-01-29)
