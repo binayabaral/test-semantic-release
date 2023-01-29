@@ -1,3 +1,10 @@
+## [1.0.0-staging.14](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.13...v1.0.0-staging.14) (2023-01-29)
+
+
+### :rocket: Chores
+
+* add chore commit ([02a5daa](https://github.com/binayabaral/test-semantic-release/commit/02a5daab201dc4060e9787c45590c29314a052e7))
+
 ## [1.0.0-staging.13](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.12...v1.0.0-staging.13) (2023-01-29)
 
 
