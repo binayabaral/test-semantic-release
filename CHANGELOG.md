@@ -1,3 +1,13 @@
+## [2.0.1-staging.1](https://github.com/binayabaral/test-semantic-release/compare/v2.0.0...v2.0.1-staging.1) (2023-01-29)
+
+
+### :rocket: Chores
+
+* add and configure commitlint ([1d57759](https://github.com/binayabaral/test-semantic-release/commit/1d57759e921172eaf6828937442bd95476921270))
+* **release:** 2.0.0-staging.2 [skip ci] Update changelog after release ([8515a6b](https://github.com/binayabaral/test-semantic-release/commit/8515a6b2fcfb29412bdda4ba9151f5dd7f618f82))
+
+## [2.0.0-staging.2](https://github.com/binayabaral/test-semantic-release/compare/v2.0.0-staging.1...v2.0.0-staging.2) (2023-01-29)
+
 ## [2.0.0](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0...v2.0.0) (2023-01-29)
 
 
@@ -25,8 +35,12 @@
 
 ### :rocket: Chores
 
+
+* add and configure commitlint ([1d57759](https://github.com/binayabaral/test-semantic-release/commit/1d57759e921172eaf6828937442bd95476921270))
+
 * **release:** 1.1.0-staging.1 [skip ci] Update changelog after release ([e4b7e0e](https://github.com/binayabaral/test-semantic-release/commit/e4b7e0e8163ec00e31d4c9e0f80d118060fc3fee))
 * **release:** 2.0.0-staging.1 [skip ci] Update changelog after release ([d14d257](https://github.com/binayabaral/test-semantic-release/commit/d14d25748d33a35ff2baeb01d24dedda4184cba7))
+
 
 ## [2.0.0-staging.1](https://github.com/binayabaral/test-semantic-release/compare/v1.1.0-staging.1...v2.0.0-staging.1) (2023-01-29)
 
