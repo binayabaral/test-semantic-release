@@ -1,3 +1,33 @@
+## [2.0.0](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0...v2.0.0) (2023-01-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* This is a breaking change
+
+### :repeat: CI
+
+* add ci commit ([694cac9](https://github.com/binayabaral/test-semantic-release/commit/694cac9613c37ba538178f37de10c1dbc8469947))
+
+
+### :bug: Fixes
+
+* adding fix commit ([95a3f85](https://github.com/binayabaral/test-semantic-release/commit/95a3f852f0b70bc9e49ce166263f72b5aa1c4cc8))
+* adding fix commit ([87010cd](https://github.com/binayabaral/test-semantic-release/commit/87010cd73e4188a1aba0532dd29c555ba6b1fabe))
+
+
+### :sparkles: Features
+
+* Added a breaking change ([c6d14c1](https://github.com/binayabaral/test-semantic-release/commit/c6d14c12a394f0dbd891e0f15b7ff7cf0245e563))
+* adding feat commit ([2ec4ea6](https://github.com/binayabaral/test-semantic-release/commit/2ec4ea6467270719b32bdcc3b967f1b8936bef8a))
+* adding feat commit ([704fb99](https://github.com/binayabaral/test-semantic-release/commit/704fb994aa3b4e6bd392bfd1cc3265336fd4e2d0))
+
+
+### :rocket: Chores
+
+* **release:** 1.1.0-staging.1 [skip ci] Update changelog after release ([e4b7e0e](https://github.com/binayabaral/test-semantic-release/commit/e4b7e0e8163ec00e31d4c9e0f80d118060fc3fee))
+* **release:** 2.0.0-staging.1 [skip ci] Update changelog after release ([d14d257](https://github.com/binayabaral/test-semantic-release/commit/d14d25748d33a35ff2baeb01d24dedda4184cba7))
+
 ## [2.0.0-staging.1](https://github.com/binayabaral/test-semantic-release/compare/v1.1.0-staging.1...v2.0.0-staging.1) (2023-01-29)
 
 
