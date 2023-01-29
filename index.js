@@ -10,3 +10,9 @@ console.log('testing test');
 console.log('testing ci');
 console.log('testing build');
 console.log('testing chore');
+
+console.log('this is a fix');
+console.log('this is a feature');
+console.log('this is a ci change');
+console.log('this is another feature');
+console.log('this is another fix');
