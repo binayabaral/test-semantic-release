@@ -40,7 +40,7 @@
             "release": "patch"
           },
           {
-            "type": "chores",
+            "type": "chore",
             "release": "patch"
           }
         ]
