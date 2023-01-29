@@ -1,3 +1,22 @@
+## [1.1.0-staging.1](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0...v1.1.0-staging.1) (2023-01-29)
+
+
+### :repeat: CI
+
+* add ci commit ([694cac9](https://github.com/binayabaral/test-semantic-release/commit/694cac9613c37ba538178f37de10c1dbc8469947))
+
+
+### :sparkles: Features
+
+* adding feat commit ([2ec4ea6](https://github.com/binayabaral/test-semantic-release/commit/2ec4ea6467270719b32bdcc3b967f1b8936bef8a))
+* adding feat commit ([704fb99](https://github.com/binayabaral/test-semantic-release/commit/704fb994aa3b4e6bd392bfd1cc3265336fd4e2d0))
+
+
+### :bug: Fixes
+
+* adding fix commit ([95a3f85](https://github.com/binayabaral/test-semantic-release/commit/95a3f852f0b70bc9e49ce166263f72b5aa1c4cc8))
+* adding fix commit ([87010cd](https://github.com/binayabaral/test-semantic-release/commit/87010cd73e4188a1aba0532dd29c555ba6b1fabe))
+
 ## 1.0.0 (2023-01-29)
 
 
