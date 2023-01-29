@@ -1,3 +1,10 @@
+## [1.0.0-staging.10](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.9...v1.0.0-staging.10) (2023-01-29)
+
+
+### :fast_forward: Performance Improvements
+
+* add perf commit ([1f3f2ee](https://github.com/binayabaral/test-semantic-release/commit/1f3f2ee70958abdd21f6ba09484b33a283881aca))
+
 ## [1.0.0-staging.9](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0-staging.8...v1.0.0-staging.9) (2023-01-29)
 
 
