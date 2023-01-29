@@ -1,3 +1,14 @@
+## [2.0.0-staging.1](https://github.com/binayabaral/test-semantic-release/compare/v1.1.0-staging.1...v2.0.0-staging.1) (2023-01-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* This is a breaking change
+
+### :sparkles: Features
+
+* Added a breaking change ([c6d14c1](https://github.com/binayabaral/test-semantic-release/commit/c6d14c12a394f0dbd891e0f15b7ff7cf0245e563))
+
 ## [1.1.0-staging.1](https://github.com/binayabaral/test-semantic-release/compare/v1.0.0...v1.1.0-staging.1) (2023-01-29)
 
 
