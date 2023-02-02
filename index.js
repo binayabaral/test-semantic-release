@@ -17,3 +17,4 @@ console.log('this is a ci change');
 console.log('this is another feature');
 console.log('this is another fix');
 console.log('this is a breaking change');
+console.log('this is a feature');
