@@ -1,3 +1,10 @@
+## [2.2.0](https://github.com/binayabaral/test-semantic-release/compare/v2.1.0...v2.2.0) (2023-02-02)
+
+
+### :sparkles: Features
+
+* :fire: add a new feature ([75f87bf](https://github.com/binayabaral/test-semantic-release/commit/75f87bf260559b14f5dccbc526358e4914e67495))
+
 ## [2.1.0](https://github.com/binayabaral/test-semantic-release/compare/v2.0.2...v2.1.0) (2023-02-02)
 
 
