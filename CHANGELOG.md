@@ -1,3 +1,15 @@
+## [2.0.2-staging.1](https://github.com/binayabaral/test-semantic-release/compare/v2.0.1...v2.0.2-staging.1) (2023-02-02)
+
+
+### :rocket: Chores
+
+* setup pre-push hook to check for valid branch names ([591d6f2](https://github.com/binayabaral/test-semantic-release/commit/591d6f21a83c64a984cab486290500db9a43dcc6))
+
+
+### :memo: Documentation Changes
+
+* add pull request template ([37c919c](https://github.com/binayabaral/test-semantic-release/commit/37c919c40e06c48c6f7aac79d49e7ab4ddbe6833))
+
 ## [2.0.1](https://github.com/binayabaral/test-semantic-release/compare/v2.0.0...v2.0.1) (2023-01-29)
 
 

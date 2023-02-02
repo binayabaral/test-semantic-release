@@ -1,0 +1,17 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+local_branch="$(git rev-parse --abbrev-ref HEAD)"
+
+# valid branch names are:
+# Two part branch names: feat/configure-husky
+# Three part branch names: feat/husky/configure-pre-push-hook
+valid_branch_regex="^(feat|fix|release|prerelease|hotfix|temp)(\/[a-z0-9._-]{2,30}){1,2}$"
+
+message="This branch violates the branch naming rules. Please rename your branch."
+
+if [[ ! $local_branch =~ $valid_branch_regex ]]
+then
+    echo "$message"
+    exit 1
+fi
