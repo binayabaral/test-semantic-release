@@ -1,3 +1,10 @@
+## [2.4.0](https://github.com/binayabaral/test-semantic-release/compare/v2.3.0...v2.4.0) (2023-02-04)
+
+
+### :sparkles: Features
+
+* :fire: use @binayabaral/semantic-release-config for configurations ([37e9531](https://github.com/binayabaral/test-semantic-release/commit/37e95315910d3fa3f0a486b0a94b21e41e4fb5ff))
+
 ## [2.3.0](https://github.com/binayabaral/test-semantic-release/compare/v2.2.0...v2.3.0) (2023-02-04)
 
 
