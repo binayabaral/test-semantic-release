@@ -19,3 +19,4 @@ console.log('this is another fix');
 console.log('this is a breaking change');
 console.log('this is a feature');
 console.log('this is a new feature');
+console.log('this is a new feature');
